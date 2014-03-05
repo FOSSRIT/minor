@@ -9,6 +9,6 @@ Links
 Course Website:
     http://hfoss-fossrit.rhcloud.com
 
-Course Repository
+Course Repository:
     http://github.com/decause/hflossk
 
